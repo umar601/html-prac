@@ -1,3 +1,3 @@
 # html-prac
-cpmplete mern practie files
+complerte mern practie files
 
